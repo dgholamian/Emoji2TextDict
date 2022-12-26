@@ -14,7 +14,7 @@ def Replace_emoji(sent):
     Returns
     -------
     sent : str (sentence)
-    Output: 'The weather is really bad :( '
+    Output: 'The weather is really bad sad '
         
 
     '''    
